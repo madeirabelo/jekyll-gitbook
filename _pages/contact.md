@@ -6,4 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+Para contactos:
+antonio.belo@gmail.com
