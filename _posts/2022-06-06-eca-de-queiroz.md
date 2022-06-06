@@ -2,15 +2,18 @@
 title: Eça de Queiroz
 author: Antonio Belo
 date: 2022-06-06
-category: Jekyll
+category: eBook
 layout: post
 ---
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/E%C3%A7a_de_Queir%C3%B3s_c._1882.jpg/200px-E%C3%A7a_de_Queir%C3%B3s_c._1882.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/E%C3%A7a_de_Queir%C3%B3s_c._1882.jpg/200px-E%C3%A7a_de_Queir%C3%B3s_c._1882.jpg" title="" alt="" width="111">
 
-- *[O Mistério da Estrada de Sintra](https://pt.wikipedia.org/wiki/O_Mist%C3%A9rio_da_Estrada_de_Sintra "O Mistério da Estrada de Sintra")* (1870) [(eBook)](https://www.gutenberg.org/ebooks/20574 "gutenberg:20574")
-- *[O Crime do Padre Amaro](https://pt.wikipedia.org/wiki/O_Crime_do_Padre_Amaro "O Crime do Padre Amaro")* (1875) [(eBook)](https://www.gutenberg.org/ebooks/31971 "gutenberg:31971")
-- *[A Tragédia da Rua das Flores](https://pt.wikipedia.org/wiki/A_Trag%C3%A9dia_da_Rua_das_Flores "A Tragédia da Rua das Flores")* (1877-78) [(ebook)](http://www.luso-livros.net/Livro/tragedia-da-rua-das-flores/)
+| Obra                                                                                                                                             | Tipo                                                                    |
+|:------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| *[O Mistério da Estrada de Sintra](https://pt.wikipedia.org/wiki/O_Mist%C3%A9rio_da_Estrada_de_Sintra "O Mistério da Estrada de Sintra")* (1870) | [(eBook)](https://www.gutenberg.org/ebooks/20574 "gutenberg:20574")     |
+| *[O Crime do Padre Amaro](https://pt.wikipedia.org/wiki/O_Crime_do_Padre_Amaro "O Crime do Padre Amaro")* (1875)                                 | [(eBook)](https://www.gutenberg.org/ebooks/31971 "gutenberg:31971")     |
+| *[A Tragédia da Rua das Flores](https://pt.wikipedia.org/wiki/A_Trag%C3%A9dia_da_Rua_das_Flores "A Tragédia da Rua das Flores")* (1877-78)       | [(ebook)](http://www.luso-livros.net/Livro/tragedia-da-rua-das-flores/) |
+
 - *[O Primo Basílio](https://pt.wikipedia.org/wiki/O_Primo_Bas%C3%ADlio "O Primo Basílio")* (1878) [(eBook)](https://www.gutenberg.org/ebooks/42942 "gutenberg:42942")
 - *[O Mandarim](https://pt.wikipedia.org/wiki/O_Mandarim "O Mandarim")* (1880) [(eBook)](https://www.gutenberg.org/ebooks/16384 "gutenberg:16384")
 - *[A Relíquia](https://pt.wikipedia.org/wiki/A_Rel%C3%ADquia "A Relíquia")* (1887) [(eBook)](https://www.gutenberg.org/ebooks/17515 "gutenberg:17515")
